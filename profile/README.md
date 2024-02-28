@@ -1,3 +1,5 @@
+A Database of Middle Turkic (https://middleturkic.lingfil.uu.se/)
+
 Middle Turkic is a cover term for various literary languages used by the Turkic-speaking peoples of Eurasia from the 13th century up to the early modern times. The entire territory ranges from Central Asia to Egypt, from Lituania and the Volga region to Iran and Anatolia. The era may symbolically begin with the coming of the Mongols and the growing influence of Persian and Arabic. The end of Middle Turkic varies from region to region. 1 November 1928 is a symbolic endpoint in Anatolia considering the introduction of the Latin-based Turkish alphabet. In territories occupied or controlled by the Russians, the October revolution of 25 October 1917 puts an end to Middle Turkic.
 
 Middle Turkic includes the following literary languages:
